@@ -3,9 +3,9 @@ One stop solution for Billing Management System for retail stores having modules
 
 Here are some of the snippets of the system.
 
-1. Login Page
+**1. Login Page**
 <img width="1440" alt="1" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/38d4de1d-c367-4d95-a247-c73dc7f4d073">
------
+***
 <br>
 
 2. Signup Page
