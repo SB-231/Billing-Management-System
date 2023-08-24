@@ -25,5 +25,5 @@ One stop solution for Billing Management System for retail stores having modules
 <img width="1440" alt="22" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/49b53aa4-a361-456d-8151-c38f0561792b">
 <img width="1440" alt="23" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/5bdc00ea-12da-406c-afb5-3b9dd9244661">
 <img width="1440" alt="24" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/835c5032-c8f0-4f89-a7b7-f8b4ee5f17bb">
-<img width="1440" alt="25" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/f0961e5f-e426-4a48-ae32-79e4d1bff790">
+<img width="1440" alt="25" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/ab4ccde7-7648-41ce-abb0-c4a3113c0ed9">
 <img width="1440" alt="26" src="https://github.com/SB-231/Billing-Management-System/assets/59923019/bc1c8c8e-f49a-4f4e-82d4-fd029e2b945c">
